@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "209485214704",
+    "firebase_url": "https://motorhebat-f43a9.firebaseio.com",
+    "project_id": "motorhebat-f43a9",
+    "storage_bucket": "motorhebat-f43a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209485214704:android:a866504082c1ae6a",
+        "android_client_info": {
+          "package_name": "hadi.motorhebat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209485214704-cdhc0pu8oh1lojhcp7dhr4mifvmcrs20.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hadi.motorhebat",
+            "certificate_hash": "ea6e4d451b776339d2b6ce82d3e7bf3bcf25299f"
+          }
+        },
+        {
+          "client_id": "209485214704-m0cuqc80rpggm5nranv4g39baohsnq1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNQ5wVfanDTSf1Ll6dTUIrOWcpND7nqlw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209485214704-m0cuqc80rpggm5nranv4g39baohsnq1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

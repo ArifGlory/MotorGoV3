@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Project\Referensi Coding android\MotorGo-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="13677367d405d9916a98c82fd006682730ad0780">
+        <dex dex="E:\Project\Referensi Coding android\MotorGo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_3abbccd5b353f7b252203856ec83d69d0a292ca1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Project\Referensi Coding android\MotorGo-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\Project\Referensi Coding android\MotorGo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_cda19e97b868d28f2c64b240dad22e95290fcda9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Project\Referensi Coding android\MotorGoV2-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f9099c9ddc823784c6035a085171790fde3b5989">
+        <dex dex="E:\Project\Referensi Coding android\MotorGoV2-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_dc8097b59902d64d1ad5b25b679204a188fd0f73\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Project\Referensi Coding android\MotorGoV2-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\Project\Referensi Coding android\MotorGoV2-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_88d52c5c6b84fb308b137833869593276f573754\classes.dex" />
+    </item>
+
+</items>
