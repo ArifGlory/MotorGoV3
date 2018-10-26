@@ -416,7 +416,7 @@
                                                         android:id="@+id/search"
                                                         android:layout_width="match_parent"
                                                         android:layout_height="100dp"
-                                                        android:src="@drawable/search_off"/>
+                                                        android:src="@drawable/icon_stop_off"/>
                                                 </LinearLayout>
 
                                                 <LinearLayout
@@ -431,7 +431,7 @@
                                                             android:layout_centerHorizontal="true"
                                                             android:layout_width="wrap_content"
                                                             android:layout_height="wrap_content"
-                                                            android:text="Cari Motor"
+                                                            android:text="Matikan Motor"
                                                             style="@android:style/TextAppearance.Large"/>
                                                     </RelativeLayout>
                                                 </LinearLayout>

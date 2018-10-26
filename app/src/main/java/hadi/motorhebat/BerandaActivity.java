@@ -197,9 +197,9 @@ public class BerandaActivity extends BaseDrawerActivity implements LocationListe
                         crd_starter.setBackgroundColor(getResources().getColor(R.color.colorAccent));
                     }
                     if (Sping.equals("Off")){
-                        img_search.setImageResource(R.drawable.search_off);
+                        img_search.setImageResource(R.drawable.icon_stop_off);
                     }else {
-                        img_search.setImageResource(R.drawable.search_on);
+                        img_search.setImageResource(R.drawable.icon_stop_on);
                     }
 
                     if (Smesin.equals("Off")){
